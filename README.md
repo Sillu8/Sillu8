@@ -1,5 +1,13 @@
 ### Hi there 👋
+I am Shamil Rasheed, a Full Stack Developer (Node.js, React.js) from India. Having around 1 year of experience in full-stack web development. To see my profile in detail, I recommend to look at my LinkedIn profile.
 
+<!-- [![MasterHead](https://github.com/Shibily-kms/Shibily-kms/blob/main/git%20banner%2022%20png.png)](https://shibilymuhammed.in) -->
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sillu8&label=Profile%20views&color=0e75b6&style=flat" alt="Sillu8" /> </p>
 
 - 🔭 I’m currently working on [Chatter (Social Media Website)](https://github.com/Sillu8/Social-Media-MERN).
  
