@@ -44,3 +44,17 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Sillu8&" alt="Shamil Rasheed" width="50%" /></p>
 <p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=Sillu8&bc=ebebeb&ic=0E8AD9" alt="Shamil Rasheed" width="46%" /></p>
 
+
+
+
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ShamilRasheed6" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="@ShamilRasheed6" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/shamil-rasheed-692778201/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="Shamil Rasheed" height="30" width="30" /></a>
+<a href="https://instagram.com/__shamil8_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" alt="Shamil Rasheed" height="30" width="30" /></a>
+<!-- <a href="https://dev.to/shibilykms" target="blank"><img align="center" src="https://iconape.com/wp-content/png_logo_vector/dev.png" alt="shibily kms" height="30" width="40" /></a> -->
+<!-- <a href="https://stackoverflow.com/users/19773789/shibily-kms" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="shibily kms" height="30" width="40" /></a> -->
+</p>
+
+<!-- <p align="left"> <a href="https://twitter.com/ShamilRasheed6" target="blank"><img src="https://img.shields.io/twitter/follow/shibily_kms?logo=twitter&style=for-the-badge" alt="@ShamilRasheed6" /></a> </p> -->
