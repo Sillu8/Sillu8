@@ -13,9 +13,9 @@ I am Shamil Rasheed, a Full Stack Developer (Node.js, React.js) from India. Havi
 
 - 🔭 I’m currently working at [ChaloExam](https://www.linkedin.com/company/chaloexam/mycompany/).
  
-- 🌱 I’m currently learning microservices.
+- 🌱 I’m currently working with React, Node.js, Express.js and MySQL.
  
-- 💬 Ask me about node.js, express.js, mongoDB, React.
+- 💬 Ask me about Node.js, Express.js, MongoDB, React, MySQL.
  
 - 📫 How to reach me: shamilrasheed131@gmail.com
 
