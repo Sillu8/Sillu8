@@ -47,10 +47,8 @@ I am Shamil Rasheed, a Full Stack Developer (Node.js, React.js) from India. Havi
   
 <td align="center"><img width="100%"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sillu8&show_icons=true" /></td>
  
- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Sillu8&show_icons=true&locale=en" alt="Shamil Rasheed" width="50%" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sillu8&show_icons=true&locale=en&layout=compact" alt="Shamil Rasheed" width="45%" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Sillu8&" alt="Shamil Rasheed" width="50%" /></p>
-<p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=Sillu8&bc=ebebeb&ic=0E8AD9" alt="Shamil Rasheed" width="46%" /></p>
 
 
 
