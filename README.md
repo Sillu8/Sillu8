@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://shamilrasheed.ecart.ltd/)
 
 ### Hi there 👋,
-I am Shamil Rasheed, a Full Stack Developer (Node.js, React.js) from India. Having around 1 year of experience in full-stack web development. To see my profile in detail, I recommend to look at my LinkedIn profile.
+I am Shamil Rasheed, a SDE 1 (JavaScript, Java) from India. Having around 1 year of experience in full-stack web development. To see my profile in detail, I recommend to look at my LinkedIn profile.
 
 <!-- [![MasterHead](https://github.com/Shibily-kms/Shibily-kms/blob/main/git%20banner%2022%20png.png)](https://shibilymuhammed.in) -->
 
@@ -13,9 +13,7 @@ I am Shamil Rasheed, a Full Stack Developer (Node.js, React.js) from India. Havi
 
 - 🔭 I’m currently working at [ChaloExam](https://www.linkedin.com/company/chaloexam/mycompany/).
  
-- 🌱 I’m currently working with React, Node.js, Express.js and MySQL.
- 
-- 💬 Ask me about Node.js, Express.js, MongoDB, React, MySQL.
+- 🌱 I’m currently working with Android, Springboot, React.
  
 - 📫 How to reach me: shamilrasheed131@gmail.com
 
